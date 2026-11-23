@@ -22,6 +22,10 @@ All built from real experience. No email required.
 
 ---
 
+**Last reviewed for NYC tenant-fee and transit rules: November 23, 2026.** Room-price ranges, hiring estimates, and other promotional claims in this guide are not live-verified; independently confirm anything that affects money or legal rights. This is not legal advice.
+
+---
+
 ## 🏠 Finding an Apartment
 
 ### Best Sites
@@ -32,8 +36,8 @@ All built from real experience. No email required.
 - **[Nextdoor](https://nextdoor.com)** — Neighborhood-specific word of mouth
 
 ### Real Cost Breakdown
-- First month + last month + security = **3 months rent upfront**
-- Broker fee = **15% of annual rent** (often $2,000–4,000 extra)
+- **Typical upfront rent/deposit:** plan for first month's rent and a security deposit of up to one month's rent. New York law generally prohibits requiring both last month's rent and a security deposit. Confirm your lease terms and fees. [NY Attorney General tenant guide](https://ag.ny.gov/publications/residential-tenants-rights-guide).
+- **Broker fees under NYC's FARE Act (effective June 11, 2025):** a landlord or its agent cannot pass the landlord-hired broker's fee to the renter. If you independently hire your own broker, you may owe a separately agreed fee. [NYC DCWP FARE Act FAQ](https://www.nyc.gov/site/dca/about/FAQ-Broker-Fees.page).
 - Average shared room (2025): $900–1,400/mo depending on borough
 
 ### Best Neighborhoods by Price
@@ -52,13 +56,13 @@ All built from real experience. No email required.
 ### Minimum Viable Budget (NYC)
 ```
 Rent (shared room, outer borough):  $900
-MetroCard unlimited:                 $132
+OMNY (four capped 7-day periods):    $140
 Groceries (cooking):                 $150
 Phone (Mint Mobile):                  $35
 Laundry:                              $30
 Misc / emergency buffer:             $100
 ─────────────────────────────────────────
-Minimum monthly:                   $1,347
+Illustrative four-week total:       $1,355
 ```
 
 ### Cheapest Grocery Stores
@@ -91,7 +95,7 @@ Show up at restaurants **between 2–4pm** (after lunch, before dinner prep). As
 Print 15 resumes. Hit 15 restaurants. Expect 3–5 callbacks.
 
 ### Certifications That Help
-- **NYC Food Handler Certificate** — $15, online, takes 2 hours. Required for food service, gets you hired faster.
+- **NYC Food Protection Certificate** — free online preparation; the in-person final exam currently costs $24 plus a convenience fee. NYC requires at least one certified supervisor on site while a food establishment operates, not every frontline employee. [NYC Health online course](https://www.nyc.gov/site/doh/business/health-academy/food-protection-online-free.page) · [Exam fee](https://a816-healthpsi.nyc.gov/prjfpc/F2964_CourseDetail.aspx).
 - **TIPS certification** — For bartending/bar work. Also cheap and online.
 
 ---
@@ -130,8 +134,8 @@ Print 15 resumes. Hit 15 restaurants. Expect 3–5 callbacks.
 
 ## 🚇 Transportation
 
-- **MetroCard Unlimited** — $132/month. Best deal if you commute daily.
-- **Pay-per-ride** — $2.90/ride. Better if you work remote/irregular.
+- **OMNY** — subway/local-bus base fare $3; rolling 7-day fare cap $35 when using the same payment method. Four fully capped weeks cost $140. This replaced the old $132 30-day MetroCard example; actual costs depend on trips and period. [MTA 2026 fare policy](https://www.mta.info/document/186881).
+- **Pay-per-ride** — $3 per standard subway/local-bus trip, subject to free transfers and OMNY fare caps. [MTA 2026 fare policy](https://www.mta.info/document/186881).
 - **Citi Bike** — $15/month for e-bike access. Game-changer for under 3-mile trips.
 - **Uber/Lyft** — Expensive ($20–40 cross-town). Use sparingly.
 
